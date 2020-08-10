@@ -1,0 +1,28 @@
+{
+  "name": "sk_truffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akomba/sk_truffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akomba/sk_truffle/issues"
+  },
+  "homepage": "https://github.com/akomba/sk_truffle#readme",
+  "devDependencies": {
+    "truffle": "^5.1.39"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^3.1.0"
+  }
+}
